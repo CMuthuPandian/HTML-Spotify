@@ -1,0 +1,104 @@
+body .head{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.login{
+    width: 450px;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+}
+
+.login h1{
+    text-align: center;
+    color: #000;
+}
+
+#first .first{
+    background-color: rgb(24, 119, 242);
+    padding: 14px;
+    margin-top: 6px;
+}
+
+#second .second{
+    background-color:black;
+}
+
+#third .third{
+    color:#6A6A6A;
+    padding: 14px;
+}
+
+#fourth .fourth{
+    color:#6A6A6A;
+    padding: 14px 70px;
+}
+
+button{
+    font-size: 14px;
+    border-radius: 30px;
+    color: white;
+    padding:14px 100px;
+    width: 100%;
+    border-color: rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+
+#email{
+    width: 92%;
+    padding: 15px;
+    size: 1px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+#password{
+    width: 92%;
+    padding: 15px;
+    size: 1px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+#last .last{
+    color: black;
+    background-color:#1ed760;
+    position: relative;
+    border-radius: 500px;
+    padding: 10px 32px;
+    font-size: inherit;
+    padding: 14px;
+    width: 30%;
+    margin-left: 190px;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+#last .check{
+    margin-top: 15px;
+}
+
+#end .end{
+    color:#6A6A6A;
+    position: relative;
+    border-radius: 500px;
+    padding: 13px 31px;
+    font-size: 14px;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+input[type='checkbox'] {
+    accent-color:#1ed760;
+}
+
+.check{
+    position: relative;
+    bottom: 12px;
+}
+
+.box{
+    position: relative;
+    bottom: 10px;
+}
